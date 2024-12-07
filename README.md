@@ -38,8 +38,3 @@ This project analyzes Blinkit's sales performance, customer satisfaction, and in
 - Power BI (for visualization and reporting)
 - DAX (for metrics and KPIs)
 
-## Setup
-
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/blinkit-sales-performance-analysis.git
